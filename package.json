@@ -12,6 +12,7 @@
     "verbose": true
   },
   "dependencies": {
+    "konva": "^8.3.1",
     "vue": "^3.2.25"
   },
   "devDependencies": {
