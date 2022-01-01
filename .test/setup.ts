@@ -1,3 +1,3 @@
-//import { jest } from '@jest/globals'
-//Object.defineProperty(global, "jest", jest);
-require('jest-canvas-mock')
+import { vi } from 'vitest'
+global.vi = vi
+require('../vendor/jest-canvas-mock')

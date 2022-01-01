@@ -1,5 +1,5 @@
 import { describe, beforeEach, it, expect } from 'vitest'
-// import { useStage } from './useStage'
+// import { useStage } from '../src/use/useStage'
 
 let canvas: any;
 let ctx: CanvasRenderingContext2D;
