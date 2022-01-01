@@ -1,4 +1,4 @@
-import { describe, beforeEach, it, expect } from 'test'
+import { describe, beforeEach, it, expect } from 'vitest'
 // import { useStage } from './useStage'
 
 let canvas: any;
